@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi everyone!
+
+My name is Alexey(but you can call me Alex). I like Java. Also, I started some projects on Android.
